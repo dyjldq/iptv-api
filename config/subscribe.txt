@@ -19,3 +19,5 @@ https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
 https://tv.740306.xyz:8443/tv.m3u
 https://live.kilvn.com/iptv.m3u
 https://lu.wqwqwq.sbs/tv.m3u
+https://raw.githubusercontent.com/wwb521/check/refs/heads/main/test.m3u
+https://raw.githubusercontent.com/wwb521/check/refs/heads/main/test.txt
